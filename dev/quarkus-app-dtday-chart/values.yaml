@@ -1,9 +1,8 @@
 application_image: quay.io/rcmendes/dtday-2022
-application_image_tag: test
-debug: "false"
-debug_script: "false"
-enable_json_logging: "true"
-hostname_http: ""
-#memory_limit: 512Mi
-name: "app-quarkus"
-proxy_timeout: "3600"
+application_image_tag: pipe-test
+debug: 'false'
+debug_script: 'false'
+enable_json_logging: 'true'
+hostname_http: ''
+name: app-quarkus
+proxy_timeout: '3600'
