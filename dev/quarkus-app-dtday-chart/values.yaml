@@ -1,5 +1,5 @@
 application_image: quay.io/rcmendes/dtday-2022
-application_image_tag: pipe-test
+application_image_tag: b571a320ba3586f5bdafee74b7eb6b1f5127125e
 debug: 'false'
 debug_script: 'false'
 enable_json_logging: 'true'
