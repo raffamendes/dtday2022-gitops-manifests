@@ -1,5 +1,5 @@
 application_image: quay.io/rcmendes/dtday-2022
-application_image_tag: b67ae390cfec071f4e86b40938ddd5a656164f36
+application_image_tag: 1e391ebb0883c5a7a0fb7ce77d20602c7ec62e41
 debug: 'false'
 debug_script: 'false'
 enable_json_logging: 'true'
